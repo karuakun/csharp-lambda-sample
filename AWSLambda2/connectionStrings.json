@@ -1,0 +1,5 @@
+{
+  "ConnectionStrings": {
+    "MyDbContext": "Server=localhost;Port=3306;Uid=user;Pwd=P@ssw0rd;Database=testdb;Convert Zero Datetime=True"
+  }
+}

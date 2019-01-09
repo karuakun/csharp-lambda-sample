@@ -1,0 +1,1 @@
+https://wordpress.com/post/karuakun.wordpress.com/1385
